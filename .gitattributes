@@ -1,4 +1,4 @@
-*.nix text lf
-*.json text lf
-*.sh text lf
-*.md text lf
+*.nix text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
