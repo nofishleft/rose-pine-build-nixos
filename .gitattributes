@@ -1,0 +1,4 @@
+*.nix text lf
+*.json text lf
+*.sh text lf
+*.md text lf
